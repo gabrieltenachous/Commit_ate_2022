@@ -1,0 +1,19 @@
+Metodos String (pode fazer no console do javascript)
+ 1)Na frase “Kiwi,Banana,maça e Banana” use o método string
+ 2)palavra banana(primeiro banana) procurar a posição.
+ 3)palavra banana(utltima banana) procurar a posição.
+ 4)Encontre a palavra banana a partir da posição 11
+ 5)Encontre a palavra banana a partir da última posição 11
+ 6)Faça retornar somente a frase “Banana”
+ 7)Faça retornar somente a frase "Maçã e Banana”
+ 8)Faça retornar somente a frase "Maçã e Banana” só que com a variável negativa
+ 9)Troque a palavra Banana por Perá
+ 10)Troque todas as palavras Banana por Perá
+ 11)Deixa a frase inteira para maiúscula
+ 12)Deixa a frase inteira para minuscula
+ 13)Concatenar  palavra Perá na frase
+ 14)Tire todos o backspace desnecessario dessa frase “Kiwi	,	Banana	,	maça	 e	 Banana”
+ 15)Em um string esta escrito “54” utilize o método string para acescentar “000” na antes na frase
+ 16)Em um string esta escrito “54” utilize o método string para acescentar “000” na depois na frase
+ 17)Digite a posição 0 da string e retorne a letra “K”
+ Desafio)Faça um for das posiçoes o Hello Word

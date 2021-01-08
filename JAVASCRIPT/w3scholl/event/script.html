@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<htnl>
+
+    <body>
+        <p id="click" onmouseover="evenOnchange3()"></p>
+        <!--O usuário clica em um elemento HTML-->
+        <p>Onclick</p>
+        <button onclick="eveOnClick();">Onclick</button>
+        <!--Um elemento HTML foi alterado-->
+        <p>Onchange</p>
+        <select onchange="evenOnchange1(this.value)">
+            <option value="1">Java</option>
+            <option value="2">C#</option>
+            <option value="3">React</option>
+        </select>
+        <input onchange="evenOnchange2(this.value);" value="Ola" type="text"></input>
+        <!--O usuário move o mouse sobre um elemento HTML-->
+        <p>Onmouseover</p>
+        <img src="https://www.w3schools.com/jsref/smiley.gif" onmouseover="evenOnchange1(this);" width="32" height="32" onmouseout="evenOnchange2(this)">
+        <!--O usuário move o mouse para longe de um elemento HTML-->
+        <p>Onmouseout</p>
+        <button onmouseout="eveOnmouseout();" value="Vamos Ver o Onmouseout">Vamos Ver o Onmouseout</button>
+        <!--O usuário empurra uma tecla de teclado-->
+        <p>Onkeydown</p>
+        <input onkeydown="eventOnKeydown();" type="text">Onkeydown</input>    
+        <br/>
+        <!--O navegador terminou de carregar a página-->
+        <p>Onload</p>
+        <button onload="evenOnload();">Eveonchange</button>
+        <script src="script.js"></script>
+    </body>
+</htnl>
