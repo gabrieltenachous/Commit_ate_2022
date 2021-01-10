@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<body> 
+
+    <p id="demo"></p> 
+    <script>
+        var text,nomes = ["Leona","Viego","Xerath"];
+        
+        text = "<ul>"
+        nomes.forEach(myFunction)
+        text +="</ul>"
+
+        document.getElementById("demo").innerHTML = text
+        function myFunction(value){
+            text += "<li>"+value+"</li>"
+        }
+    </script>
+
+    
+</body>
+
+</html>

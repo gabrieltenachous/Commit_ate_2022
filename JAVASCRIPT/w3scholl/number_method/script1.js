@@ -21,13 +21,14 @@ function exercicio2() {
     d = "10 dsadasdasd"
     e= Infinity;
     f= 'a';
-    
+    g = new Date();
     console.log(Number(a))
     console.log(Number(b))
     console.log(Number(c)) 
     console.log(Number(d)) 
     console.log(Number(e))
     console.log(Number(f))
+    console.log(Number(g))
 }
 
 function exercicio3(){
