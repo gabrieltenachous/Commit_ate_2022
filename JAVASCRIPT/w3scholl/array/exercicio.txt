@@ -1,0 +1,7 @@
+Faça instancia de um array;
+Trabalhe com os indice faça retornar somente um dos lavores e tambem altere ela;
+Acesse o ultimo elemento do array com uma variavel
+Percorra uma matriz com um for;
+Utilize o foreach
+Adiciona um elemento com push e com length
+Crie sua propria função para ver se o array é ou não é
