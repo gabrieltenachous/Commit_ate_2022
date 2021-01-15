@@ -16,4 +16,6 @@ $nascimento = new DateTime();
 $arquivo = fopen("exemplo3.php","r");
 var_dump($arquivo);
 
+$null = NULL;
+
 ?>
