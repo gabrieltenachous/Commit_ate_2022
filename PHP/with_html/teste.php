@@ -20,19 +20,7 @@
     <div class="container">
         <div class="row">
             <!--Inicio do teste -->
-            <div class="btn-group-vertical" role="group" aria-label="">
-                <button type="button" class="btn btn-secondary">primeiro</button>
-                <button type="button" class="btn btn-secondary">primeiro</button>
-                <div class="btn-group" role="group">
-                    <button id="dropdownId" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-
-                    </button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownId">
-                        <a class="dropdown-item" href="#">primeiro</a>
-                        <a class="dropdown-item" href="#">primeiro</a>
-                    </div>
-                </div>
-            </div>
+            
             <!-- Final do teste-->
         </div>
     </div>
