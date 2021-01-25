@@ -33,6 +33,16 @@
     .slider-text{
         background-color: #35443585 !important;
     }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float:left;
+        width: 20%;
+    }
+    .detail-img{
+        height: 200px;
+    }
 </style>
 
 <!-- Optional JavaScript -->
